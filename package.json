@@ -1,0 +1,12 @@
+{
+  "name": "subash-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix Subash run dev",
+    "build": "npm --prefix Subash run build",
+    "lint": "npm --prefix Subash run lint",
+    "preview": "npm --prefix Subash run preview"
+  }
+}
